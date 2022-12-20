@@ -1,0 +1,3 @@
+@OCamlStdlibDir@/mmap/META
+@OCamlStdlibDir@/mmap/*.cma
+OPT: @OCamlStdlibDir@/mmap/*.cmxs

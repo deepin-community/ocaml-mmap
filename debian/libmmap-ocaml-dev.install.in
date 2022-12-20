@@ -1,0 +1,10 @@
+@OCamlStdlibDir@/mmap/*dune*
+@OCamlStdlibDir@/mmap/*opam*
+@OCamlStdlibDir@/mmap/*.ml
+@OCamlStdlibDir@/mmap/*.mli
+@OCamlStdlibDir@/mmap/*.cmi
+@OCamlStdlibDir@/mmap/*.cmt
+@OCamlStdlibDir@/mmap/*.cmti
+OPT: @OCamlStdlibDir@/mmap/*.a
+OPT: @OCamlStdlibDir@/mmap/*.cmx
+OPT: @OCamlStdlibDir@/mmap/*.cmxa

@@ -1,0 +1,11 @@
+ocaml-mmap (1.1.0-1-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 24 Nov 2022 07:21:27 +0800
+
+ocaml-mmap (1.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #935875)
+
+ -- Stéphane Glondu <glondu@debian.org>  Tue, 27 Aug 2019 10:22:12 +0200
