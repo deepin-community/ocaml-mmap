@@ -4,11 +4,13 @@ Maintainer: Debian OCaml Maintainers <debian-ocaml-maint@lists.debian.org>
 Uploaders:
  Stéphane Glondu <glondu@debian.org>
 Build-Depends:
- debhelper-compat (= 12),
- ocaml-nox,
+ debhelper-compat (= 13),
+ ocaml,
  ocaml-dune,
- dh-ocaml
-Standards-Version: 4.4.0
+ libbigarray-compat-ocaml-dev,
+ dh-ocaml (>= 1.2)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
 Section: ocaml
 Homepage: https://github.com/mirage/mmap
 Vcs-Git: https://salsa.debian.org/ocaml-team/ocaml-mmap.git

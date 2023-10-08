@@ -3,6 +3,12 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Files: *
 Copyright: © 1996-2019 INRIA
 License: LGPL-2.1-with-linking-exception
+
+Files: debian/*
+Copyright: © 2019 Stéphane Glondu
+License: LGPL-2.1-with-linking-exception
+
+License: LGPL-2.1-with-linking-exception
  In the following, "the OCaml Core System" refers to all files marked
  "Copyright INRIA" in this distribution.
  .
